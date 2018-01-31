@@ -1,0 +1,21 @@
+---
+title: "Course Project Steps"
+output: html_document
+---
+
+# Part 1
+
+## Goal: Investigate the the exponential distribution in R and compare it with the Central Limit Theorem
+
+### Set Up
+  * Use *rexp(n,lambda)* to get **exponential distribution**
+      + The **mean** and **standard deviation** of the **exponential distribution** is *1/lambda*
+      + Set *lambda* to **0.2** for all simulations
+  * We are looking for the distribution of averages of **40** exponential distributions
+      + You will be doing **1000** simulations
+      
+### Questions
+  1. Show the sample mean and compare it to the theoretical mean of the distribution.
+  2. Show how variable the sample (via variance) is and compare it to the theoretical variance of the distribution.
+  3. Show that the distribution is **approximately normal**
+      + Focus on the difference between the distribution of a large collection of random exponentials and the distribution of a large collection of averages of 40 exponentials

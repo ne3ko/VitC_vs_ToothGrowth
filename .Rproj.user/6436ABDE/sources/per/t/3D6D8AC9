@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511150505950.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2728775705",
+    "id" : "3D6D8AC9",
+    "lastKnownWriteTime" : 1511150778,
+    "last_content_update" : 1511150777815,
+    "path" : "F:/Programming/Coursera/Data Science in R/Statistical Inference/Assignments/Course_Project/Part_2.Rmd",
+    "project_path" : "Part_2.Rmd",
+    "properties" : {
+        "cursorPosition" : "3,20",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
